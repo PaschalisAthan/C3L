@@ -1,6 +1,5 @@
 Compound - Generic compound name
 
-
 Status - Max clinical phase
 
 
