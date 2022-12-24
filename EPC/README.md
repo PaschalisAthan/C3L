@@ -1,6 +1,6 @@
 ## EPC ##
 
-**Compound ChEMBL ID** -- Compound chembl identifier
+**Compound ChEMBL ID** -- * *Compound chembl identifier* *
 
 Compound name -- Compound generic name (if available)
 
