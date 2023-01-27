@@ -4,7 +4,7 @@
 
 **Compound name** -- *Compound generic name (if available)*
 
-**CAS registry number** -- **
+**CAS registry number** -- *Chemical Abstracts Service identification number*
 
 **SMILES** -- *Compound canonical SMILES*
 
