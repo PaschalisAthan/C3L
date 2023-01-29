@@ -1,4 +1,4 @@
-## Cell panting assay output ##
+## Phenotypic Assay ##
 
 **Compound ChEMBL ID** -- *Compound ChEMBL identifier*
 
