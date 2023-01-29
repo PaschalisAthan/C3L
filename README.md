@@ -1,2 +1,2 @@
 # C3L
-Optimized chemogenomic library design strategies for precision oncology
+Comprehensive anti-Cancer small-Compound Library
